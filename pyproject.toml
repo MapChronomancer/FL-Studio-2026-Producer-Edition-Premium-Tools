@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "FL-Studio-2026-Producer-Edition-Premium-Tools"
+version = "0.1.0"
+description = "Advanced preset manager and workflow enhancer for FL Studio 2026 Producer Edition. Includes mixing templates, plugin chain presets, chord packs, and productivity shortcuts for music producers."
+readme = "README.md"
+license = { file = "LICENSE" }
+authors = [{ name = "MapChronomancer" }]
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+
+[project.scripts]
+fl_studio_2026_producer_edition_premium_tools = "fl_studio_2026_producer_edition_premium_tools.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
