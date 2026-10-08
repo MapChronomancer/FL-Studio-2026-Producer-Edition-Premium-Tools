@@ -55,3 +55,13 @@ Right-click FL_Tools.exe → Run as Administrator
 
 # Choose sync folder
 Point to your FL Studio Data folder
+
+## ❓ FAQ
+
+**Q: Will it run on Windows 11 23H2?**
+
+A: Yes — tested on the current 23H2 build, no extra steps required.
+
+**Q: Does it work with multi-monitor setups?**
+
+A: Multi-monitor is supported; the overlay snaps to the foreground window's monitor automatically.
