@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.1.0 — 2026-10-09
+- Improved logging for first-launch diagnostics.
+- Performance counters reset path tightened.
+
 All notable changes to this project will be documented here.
 
 ## [Unreleased]
