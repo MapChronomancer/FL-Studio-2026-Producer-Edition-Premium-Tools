@@ -65,3 +65,4 @@ A: Yes — tested on the current 23H2 build, no extra steps required.
 **Q: Does it work with multi-monitor setups?**
 
 A: Multi-monitor is supported; the overlay snaps to the foreground window's monitor automatically.
+<!-- doc tweak -->
