@@ -1,3 +1,1 @@
-Ping 46 · 2026-10-12 20:46:57Z
-
-keepalive marker for search-index freshness.
+Freshness signal 49 at 2026-10-12 20:47:33Z.
