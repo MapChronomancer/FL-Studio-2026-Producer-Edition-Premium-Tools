@@ -1,3 +1,1 @@
-Ping 18 · 2026-10-12 20:51:46Z
-
-keepalive marker for search-index freshness.
+Auto-refresh: run #19, timestamp 2026-10-12 20:52:01Z.
