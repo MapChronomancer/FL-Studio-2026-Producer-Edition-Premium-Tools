@@ -1,3 +1,3 @@
-Ping 5 · 2026-10-12 20:24:21Z
+SEO heartbeat — 2026-10-12 20:27:23Z
 
-keepalive marker for search-index freshness.
+counter: 1
